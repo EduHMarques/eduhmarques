@@ -1,10 +1,6 @@
 ### Olá!! Eu sou o Eduardo Marques👋
 
-<div>
-  <a href = "https://github.com/eduhmarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athush&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athush&layout=compact&count_private=true&theme=tokyonight"/>
-</div>
+
 
 <!--
 **EduHMarques/eduhmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
